@@ -1,0 +1,31 @@
+[{
+	"name": "明朝那些事儿",
+	"author": "当年明月",
+	"category": ["历史", "文学"],
+	"status": "读完",
+	"rate": "4.5"
+},
+
+{
+	"name": "把时间当作朋友",
+	"author": "李笑来",
+	"category": "励志",
+	"status": "读完",
+	"rate": 4.5
+},
+
+{
+	"name": "财富自由之路",
+	"author": "李笑来",
+	"category": "励志",
+	"status": "在读",
+	"rate": 4.5
+},
+
+{
+	"name": "少有人走的路",
+	"author": "斯科特·派克",
+	"category": "心理",
+	"status": "在读",
+	"rate": 4.5
+}]
