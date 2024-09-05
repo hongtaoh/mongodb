@@ -1,6 +1,6 @@
 # MongoDB 入门教程
 
-该教程参考 Patrick Loeber 的 [MongoDB Crash Course With Python](https://www.python-engineer.com/posts/python-mongodb-crashcourse/)
+本教程参考 Patrick Loeber 的 [MongoDB Crash Course With Python](https://www.python-engineer.com/posts/python-mongodb-crashcourse/)
 
 ## 流程
 
