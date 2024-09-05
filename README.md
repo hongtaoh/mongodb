@@ -2,7 +2,9 @@
 
 该教程参考 Patrick Loeber 的 [MongoDB Crash Course With Python](https://www.python-engineer.com/posts/python-mongodb-crashcourse/)
 
-进入 [https://www.mongodb.com/](https://www.mongodb.com/)
+## 流程
+
+首先进入 [https://www.mongodb.com/](https://www.mongodb.com/)
 
 products -> Atlas -> try free 然后填写信息完成注册
 
