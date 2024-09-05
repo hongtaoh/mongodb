@@ -83,6 +83,10 @@ books = db.books
 result = books.insert_one(book1)
 ```
 
+刷新 MongoDB 页面，你会看到
+
+![](book1.png)
+
 我们也可以添加多组数据
 
 ```py
