@@ -174,6 +174,15 @@ result = books.update_one({"name": "财富自由之路"}, {"$set": {"status": "�
 
 这样的错误，回到 atlas 首页面，security -> network access 那里把你当前的 ip 地址加到白名单里。
 
+## 和 Compass 相连
+
+首先，下载 [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
+
+在 Atals 首页，Deployment -> Database -> Clusters -> Connect -> Access your data through tools (Compass) -> I have MongoDB Compass installed -> 复制并修改 Connection string -> Done 
+
+打开 MongoDB Compass -> New connections -> 在 URL 处粘贴修改后的 connection string -> Connect 
+
+
 
 
 
